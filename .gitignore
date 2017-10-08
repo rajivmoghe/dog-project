@@ -2,8 +2,6 @@
 __pycache__
 dogImages/
 lfw/
-saved_models/weights.best.from_scratch.hdf5
-saved_models/weights.best.vgg16.hdf5
 saved_models/MLP.human.weights.best.hdf5
 saved_models/aug_model.human.weights.best.hdf5
 .ipynb_checkpoints/
